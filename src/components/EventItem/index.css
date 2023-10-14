@@ -1,0 +1,25 @@
+.image1 {
+  height: 250px;
+  width: 350px;
+}
+.li-container {
+  /* list-style-type: none; */
+  list-style: none;
+  font-family: 'Roboto';
+  margin: 10px;
+  height: 300px;
+  width: 300px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.button {
+  background-color: #475569;
+}
+.con1 {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
